@@ -58,3 +58,9 @@ build/
 # Android generated files
 android/.gradle/
 android/app/build/
+
+/ios/
+/macos/
+/test/
+/web/
+/windows/
